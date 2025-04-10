@@ -16,6 +16,8 @@
  
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Css-0D1117?style=for-the-badge&logo=css&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
@@ -25,8 +27,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
  
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Css-0D1117?style=for-the-badge&logo=css&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=css&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
