@@ -3,7 +3,7 @@
 ## 👨🏻💻 Um pouco sobre mim:
 <div>
   <p>
-    Sou um Desenvolvedor apaixonado por tecnologia, atualmente cursando Ciência da Computação. Atualmente estudando Python, Java, SQL, POO e API REST.
+    Sou um Desenvolvedor apaixonado por tecnologia, atualmente cursando Ciência da Computação. Estudando Python, Java, SQL, POO e API REST.
   </p>
 </div>
 
